@@ -1,16 +1,13 @@
-### Hi there 👋
+# console.log ('Hello World!!') 
 
-<!--
-**Diego374/Diego374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as a recruitment and love it.
+🌱 I’m currently learning about software development.
+💬 Ask me about on my Linkedin: https://www.linkedin.com/in/diego-rodr%C3%ADguez-l%C3%B3pezrrhh/
+🤓 I´m psychologist and telecommunications technicians, currently studing software development.
+I´m also a creator of videos, you can follow me in the next sites: 
+https://www.youtube.com/watch?v=0h7HGIY0E_s&t=37s
+https://www.instagram.com/?hl=es
 
-Here are some ideas to get you started:
+Thank you very much for your attention, best regards. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
