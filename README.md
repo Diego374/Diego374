@@ -1,6 +1,6 @@
 <h2> Hi, I'm Diego Rodríguez! 
 
-<img align='right' src="https://media-exp1.licdn.com/dms/image/C4D03AQFoXP1HeYAxTQ/profile-displayphoto-shrink_800_800/0/1663921551307?e=2147483647&v=beta&t=IPNIDfJPUSKIrL8CgiuLTerX1XyK7D3c7oBSKw8Rx10" width="230">
+<img align='right' src="https://media-exp1.licdn.com/dms/image/C4D03AQFoXP1HeYAxTQ/profile-displayphoto-shrink_800_800/0/1663921551307?e=2147483647&v=beta&t=IPNIDfJPUSKIrL8CgiuLTerX1XyK7D3c7oBSKw8Rx10" width="100">
 <p><em>Student of Software Development at <a href="https://4geeksacademy.com/es/inicio">4Geeks Academy</a><img src="https://4geeksacademy.com/static/dc42e38caa9db517ddea28bea5e40d02/60a8e/4geeks-logo.webp" width="70"></br>Psychology,telecommunications technician and Recruitment Consultant 
 </em></p>
 
